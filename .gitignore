@@ -1,0 +1,9 @@
+# one check line
+
+.ipynb_checkpoints
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+__pycache__
+

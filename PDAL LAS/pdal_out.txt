@@ -1,0 +1,213 @@
+{
+  "filename": "Cobalt_Encino_190829_150417.las",
+  "pdal_version": "1.9.1 (git-version: Release)",
+  "stats":
+  {
+    "bbox":
+    {
+      "EPSG:4326":
+      {
+        "bbox":
+        {
+          "maxx": -106.8607809,
+          "maxy": 35.36652286,
+          "maxz": 1999.271704,
+          "minx": -106.8662596,
+          "miny": 35.32208899,
+          "minz": 1908.671095
+        },
+        "boundary": {
+   "coordinates" : [
+      [
+         [ -106.86592247629505, 35.322088994465084, 1908.6710947421884 ],
+         [ -106.86625962691492, 35.366496737715416, 1908.6710947421884 ],
+         [ -106.86111520691665, 35.366522862803173, 1999.2717043434075 ],
+         [ -106.86078087033867, 35.322115076932548, 1999.2717043434075 ],
+         [ -106.86592247629505, 35.322088994465084, 1908.6710947421884 ]
+      ]
+   ],
+   "type" : "Polygon"
+}
+
+      },
+      "native":
+      {
+        "bbox":
+        {
+          "maxx": 1458223.85,
+          "maxy": 1589252.261,
+          "maxz": 6559.27725,
+          "minx": 1456690.056,
+          "miny": 1573088.599,
+          "minz": 6262.03175
+        },
+        "boundary": {
+   "coordinates" : [
+      [
+         [ 1456690.0564999999, 1573088.5987499999, 6262.0317500000001 ],
+         [ 1456690.0564999999, 1589252.2609999999, 6262.0317500000001 ],
+         [ 1458223.8500000001, 1589252.2609999999, 6559.2772500000001 ],
+         [ 1458223.8500000001, 1573088.5987499999, 6559.2772500000001 ],
+         [ 1456690.0564999999, 1573088.5987499999, 6262.0317500000001 ]
+      ]
+   ],
+   "type" : "Polygon"
+}
+
+      }
+    },
+    "statistic":
+    [
+      {
+        "average": 1457475.525,
+        "count": 19240759,
+        "maximum": 1458223.85,
+        "minimum": 1456690.056,
+        "name": "X",
+        "position": 0,
+        "stddev": 460.8295076,
+        "variance": 212363.8351
+      },
+      {
+        "average": 1581160.341,
+        "count": 19240759,
+        "maximum": 1589252.261,
+        "minimum": 1573088.599,
+        "name": "Y",
+        "position": 1,
+        "stddev": 4664.333941,
+        "variance": 21756011.12
+      },
+      {
+        "average": 6423.935795,
+        "count": 19240759,
+        "maximum": 6559.27725,
+        "minimum": 6262.03175,
+        "name": "Z",
+        "position": 2,
+        "stddev": 58.29019168,
+        "variance": 3397.746447
+      },
+      {
+        "average": 41448.79655,
+        "count": 19240759,
+        "maximum": 65535,
+        "minimum": 8235,
+        "name": "Intensity",
+        "position": 3,
+        "stddev": 3479.44081,
+        "variance": 12106508.35
+      },
+      {
+        "average": 1.025815666,
+        "count": 19240759,
+        "maximum": 4,
+        "minimum": 1,
+        "name": "ReturnNumber",
+        "position": 4,
+        "stddev": 0.1658015386,
+        "variance": 0.02749015019
+      },
+      {
+        "average": 1.052297937,
+        "count": 19240759,
+        "maximum": 4,
+        "minimum": 1,
+        "name": "NumberOfReturns",
+        "position": 5,
+        "stddev": 0.2380069026,
+        "variance": 0.0566472857
+      },
+      {
+        "average": 0,
+        "count": 19240759,
+        "maximum": 0,
+        "minimum": 0,
+        "name": "ScanDirectionFlag",
+        "position": 6,
+        "stddev": 0,
+        "variance": 0
+      },
+      {
+        "average": 0.001556851266,
+        "count": 19240759,
+        "maximum": 1,
+        "minimum": 0,
+        "name": "EdgeOfFlightLine",
+        "position": 7,
+        "stddev": 0.03942707372,
+        "variance": 0.001554494142
+      },
+      {
+        "average": 2.199696384,
+        "count": 19240759,
+        "maximum": 64,
+        "minimum": 2,
+        "name": "Classification",
+        "position": 8,
+        "stddev": 0.6091921715,
+        "variance": 0.3711151019
+      },
+      {
+        "average": -0.4449441302,
+        "count": 19240759,
+        "maximum": 37.0019989,
+        "minimum": -34.9980011,
+        "name": "ScanAngleRank",
+        "position": 9,
+        "stddev": 17.40091223,
+        "variance": 302.7917466
+      },
+      {
+        "average": 0,
+        "count": 19240759,
+        "maximum": 0,
+        "minimum": 0,
+        "name": "UserData",
+        "position": 10,
+        "stddev": 0,
+        "variance": 0
+      },
+      {
+        "average": 0,
+        "count": 19240759,
+        "maximum": 0,
+        "minimum": 0,
+        "name": "PointSourceId",
+        "position": 11,
+        "stddev": 0,
+        "variance": 0
+      },
+      {
+        "average": 251126308.9,
+        "count": 19240759,
+        "maximum": 251126358.9,
+        "minimum": 251126259.1,
+        "name": "GpsTime",
+        "position": 12,
+        "stddev": 57250.73865,
+        "variance": 3277647076
+      },
+      {
+        "average": 0,
+        "count": 19240759,
+        "maximum": 0,
+        "minimum": 0,
+        "name": "ScanChannel",
+        "position": 13,
+        "stddev": 0,
+        "variance": 0
+      },
+      {
+        "average": 0,
+        "count": 19240759,
+        "maximum": 0,
+        "minimum": 0,
+        "name": "ClassFlags",
+        "position": 14,
+        "stddev": 0,
+        "variance": 0
+      }
+    ]
+  }
+}

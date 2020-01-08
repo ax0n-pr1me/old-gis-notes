@@ -1,0 +1,126 @@
+[
+  {
+    "ID": "alphanumcwith25charicters",
+    "DataRow ID": "alphanumericwith25charict",
+    "Labeled Data": "https://url.to.image.com/",
+    "Label": {
+      "Canada Goose": [
+        {
+          "geometry": [
+            {
+              "x": 4463,
+              "y": 2707
+            },
+            {
+              "x": 4553,
+              "y": 2766
+            },
+            {
+              "x": 4519,
+              "y": 2810
+            },
+            {
+              "x": 4428,
+              "y": 2744
+            }
+          ]
+        },
+        {
+          "geometry": [
+            {
+              "x": 4311,
+              "y": 2748
+            },
+            {
+              "x": 4399,
+              "y": 2731
+            },
+            {
+              "x": 4413,
+              "y": 2786
+            },
+            {
+              "x": 4308,
+              "y": 2798
+            }
+          ]
+        }
+      ], 
+      "Mallard": [
+        {
+          "geometry": [
+            {
+              "x": 3044,
+              "y": 2737
+            },
+            {
+              "x": 3065,
+              "y": 2766
+            },
+            {
+              "x": 3024,
+              "y": 2789
+            },
+            {
+              "x": 3001,
+              "y": 2773
+            }
+          ]
+        },
+        {
+          "geometry": [
+            {
+              "x": 2820,
+              "y": 2939
+            },
+            {
+              "x": 2845,
+              "y": 2938
+            },
+            {
+              "x": 2860,
+              "y": 2988
+            },
+            {
+              "x": 2830,
+              "y": 2993
+            }
+          ]
+        },
+        {
+          "geometry": [
+            {
+              "x": 2616,
+              "y": 3337
+            },
+            {
+              "x": 2643,
+              "y": 3350
+            },
+            {
+              "x": 2607,
+              "y": 3396
+            },
+            {
+              "x": 2581,
+              "y": 3375
+            }
+          ]
+        }
+      ]
+    },
+    "Created By": "labeler.email@email.com",
+    "Project Name": "LB Project Name",
+    "Created At": "2019-08-15T22:13:36.000Z",
+    "Updated At": "2019-09-17T16:40:46.000Z",
+    "Seconds to Label": 51.623,
+    "External ID": "Image_Name.JPG",
+    "Agreement": 0.5075,
+    "Benchmark Agreement": null,
+    "Benchmark ID": null,
+    "Benchmark Reference ID": null,
+    "Dataset Name": "Dataset Name",
+    "Reviews": [],
+    "View Label": "https://url.to.label.com/"
+  }
+]
